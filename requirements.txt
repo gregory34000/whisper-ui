@@ -12,3 +12,4 @@ SQLAlchemy==2.0.0 # https://github.com/sqlalchemy/sqlalchemy
 # Frontend
 # --------------------
 streamlit==1.17.0 # https://github.com/streamlit/streamlit
+ffmeg
